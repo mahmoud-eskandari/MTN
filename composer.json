@@ -1,5 +1,5 @@
 {
-    "name": "eskandari/MTN",
+    "name": "eskandari/mtn",
     "type": "library",
     "description": "Irancell erefill ETIService php library",
     "keywords": ["MTN","Irancell","IrancellErefill","Erefill"],
